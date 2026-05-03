@@ -17,6 +17,9 @@ This template uses a unique combination of pure htmx for interactivity plus Go t
 - Change app.go components package import
 - **For Linux build tag webkit2_40 is required e.g -tags webkit2_40**
 
+## Usage
+wails init -n {{ProjectName}} -t wails-htmx-templ-template
+
 ## Live Development
 
 To run in live development mode, run `wails dev` in the project directory. In another terminal, go into the `frontend`

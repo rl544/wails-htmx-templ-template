@@ -1,7 +1,7 @@
 package main
 
 import (
-	"changeme/components"
+	"{{.ProjectName}}/components"
 	"context"
 
 	"github.com/a-h/templ"

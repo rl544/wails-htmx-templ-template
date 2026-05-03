@@ -1,4 +1,4 @@
-module changeme
+module {{.ProjectName}}
 
         go 1.18
 
